@@ -1,0 +1,17 @@
+PersonalUserDetails:
+    first_name: ~first_name
+    last_name: ~last_name
+    password: Testing123
+    select_days: "7"
+    select_months: "8"
+    select_years: "1991"
+
+AddressUserDetails:
+    addfirst_name: ~first_name
+    addlast_name: ~last_name
+    address: "2222 st. test, PH"
+    city: "city test"
+    select_state: "California"
+    postcode: "32801"
+    select_country: "United States"
+    mobile: "09912222222"

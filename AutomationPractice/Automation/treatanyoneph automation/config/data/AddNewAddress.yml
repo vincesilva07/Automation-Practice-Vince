@@ -1,0 +1,16 @@
+AddNewAddressDetails:
+    address: "504 Briarwick Dr"
+    city: "Starkville"
+    select_state: "Mississippi"
+    postcode: "39759"
+    homephone: "11111111111"
+    mobile: "(601) 923-9796"
+    alias: "Testing123"
+
+InvalidAddressDetails:
+    address: ""
+    city: ""
+    select_state: ""
+    postcode: ""
+    mobile: ""
+    alias: ""
